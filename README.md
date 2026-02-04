@@ -683,8 +683,6 @@ if (ImGui::IsKeyPressed(ImGuiKey_A)) {
 
 本项目采用 [MIT 许可证](LICENSE)。
 
-如需更改许可证，请查看 [许可证选择指南](LICENSE-CHOICES.md)。
-
 ## 联系方式
 
 如有问题或建议，请通过以下方式联系：
@@ -695,5 +693,6 @@ if (ImGui::IsKeyPressed(ImGuiKey_A)) {
 
 ---
 
-**最后更新**：2026-02-05
+**最后更新**：2026-02-05/15:19
+
 **作者**：[xioayu](https://github.com/noob-xiaoyu)
